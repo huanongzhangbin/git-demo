@@ -7,5 +7,3 @@ hello git hello hello
 hello git hello hello
 hello git hello hello
 hello git hello hello
-hello git hello hello
-hello git hello hello
